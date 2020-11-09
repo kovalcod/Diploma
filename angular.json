@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Diploma"
+    }
+  },
+  "defaultProject": "Diploma",
+  "cli": {
+    "analytics": "8299e6db-be7d-47b6-b053-d66544342c76"
+  }
 }
